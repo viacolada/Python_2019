@@ -1,0 +1,12 @@
+hetfo, 10:15, 12:00, A programozás alapjai, R4J
+hetfo, 12:15, 14:00, Bevezetés a kognitív tudományba, CH404
+hetfo, 14:15, 16:00, Pszicholingvisztika, E306cd
+hetfo, 16:15, 18:00, Statisztika és kísérlettervezés, E305ab
+kedd, 8:15, 10:00, Matematika MC, H406
+kedd, 10:15, 12:00, Neurobiológia 1 – Alapok és az észlelés neurobiológiája, E404
+szerda, 12:15, 14:00, Statisztika és kísérlettervezés, E504
+szerda, 14:15, 16:00, Bevezetés a kísérleti pszichológiába, E407
+szerda, 15:15, 17:00, A programozás alapjai, R4J
+szerda, 16:15, 18:00, Matematika MC, H607
+csutortok, 10:15, 12:00, Informatika MC, R4P
+csutortok, 15:15, 17:00, A programozás alapjai, I025
